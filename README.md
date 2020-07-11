@@ -1,0 +1,2 @@
+# ReproSur-IncomeAndExpenses-Tracking
+It's a software project that I work on in my spare time as a favor for a friend. A GUI developed in Python, in which income and expenses can be recorded and saved in a database stored in Microsoft SQL Server Management, and which could automatically calculate the salaries of his employees, display graphs such as EarnsVsMonth or IncomesVsEmployee and manage the devaluation of the ReproSur´s equipment 
